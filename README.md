@@ -35,11 +35,17 @@ SUBINDO A IMAGEM DO DOCKER-COMPOSE.YML NO TERMINAL DO VS CODE
 CONTEINER RODANDO NO DOCKER DESKTOP
 ![docker](https://user-images.githubusercontent.com/60200989/225698499-effa1963-9283-4728-be01-a4082d994aab.jpeg)
 
+
 BASE DE DADOS NO DBEAVER
 ![base de dados](https://user-images.githubusercontent.com/60200989/225698753-36f6b5db-0276-4b3d-a978-04598b0e1a6b.jpeg)
 
+
+
+
 MODELAGEM DO DADOS
 ![diagrama](https://user-images.githubusercontent.com/60200989/225698942-b88b1be7-7fcc-4b10-b9a1-c0e060c0f3db.jpeg)
+
+
 
 
 
