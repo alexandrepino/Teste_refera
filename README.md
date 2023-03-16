@@ -55,7 +55,7 @@ Em seguida, √© feita a contagem da quantidade de clientes distintos para cada m√
 
 
 
-<h2>MODELAGEM DO DADOS</h2>
+<h2>MODELAGEM DOS DADOS</h2>
 
 
 ![diagrama](https://user-images.githubusercontent.com/60200989/225698942-b88b1be7-7fcc-4b10-b9a1-c0e060c0f3db.jpeg)
