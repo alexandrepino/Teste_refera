@@ -15,3 +15,6 @@ GROUP BY f.title
 ORDER BY quantidade 
 DESC
 LIMIT 2;
+
+
+SELECT * FROM pergunta1_top_films
