@@ -23,6 +23,25 @@ Para isso, é realizada uma consulta que utiliza as tabelas "customer" e "rental
 
 Em seguida, é feita a contagem da quantidade de clientes distintos para cada mês utilizando COUNT(DISTINCT). Por fim, é feito o agrupamento dos resultados pelo mês e ordenação em ordem crescente pelo mesmo. A cláusula LIMIT é utilizada para retornar apenas os três primeiros resultados.
 
+PASSO A PASSO COM IMAGENS:
+
+
+ARQUIVO DOCKER-COMPOSE.YML NO VS CODE
+![docker-code](https://user-images.githubusercontent.com/60200989/225696811-70a9bf32-b9cf-42b4-8958-b641446b06c5.jpeg)
+
+SUBINDO A IMAGEM DO DOCKER-COMPOSE.YML NO TERMINAL DO VS CODE
+![docker-terminal](https://user-images.githubusercontent.com/60200989/225698269-939e2dfe-7edc-4784-834a-86a89dddd581.jpeg)
+
+CONTEINER RODANDO NO DOCKER DESKTOP
+![docker](https://user-images.githubusercontent.com/60200989/225698499-effa1963-9283-4728-be01-a4082d994aab.jpeg)
+
+BASE DE DADOS NO DBEAVER
+![base de dados](https://user-images.githubusercontent.com/60200989/225698753-36f6b5db-0276-4b3d-a978-04598b0e1a6b.jpeg)
+
+MODELAGEM DO DADOS
+![diagrama](https://user-images.githubusercontent.com/60200989/225698942-b88b1be7-7fcc-4b10-b9a1-c0e060c0f3db.jpeg)
+
+
 
 
 
