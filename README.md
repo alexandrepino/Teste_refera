@@ -1,5 +1,5 @@
 
-Explicação da Questão 1:
+<h1>Explicação da Questão 1:</h1>
 
 Primeiro, é feito um join entre as tabelas de filmes, inventário e aluguéis. Isso nos permite relacionar o título do filme com o número de vezes que ele foi alugado.
 Em seguida, é feito um agrupamento (GROUP BY) pelo título do filme para que possamos contar quantas vezes cada um deles foi alugado.
